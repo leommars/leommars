@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Transformo ideias em sites modernos, responsivos e funcionais, com foco em desempenho e visual criativo.
 --------------------------------------------------------------------------------------------------------
 
-🛠️ Tecnologias que domino: Frontend: HTML5, CSS3, JavaScript, Bootstrap, React 
-Backend: Node.js, PHP, Java CMS e Plataformas: WordPress, Wix Controle de versão: Git & GitHub 
+🛠️ Tecnologias que domino: Frontend: HTML5, CSS3, JavaScript, Bootstrap 
+ Plataformas: WordPress, Wix Controle de versão: Git & GitHub 
 🎯 Especialidades: Desenvolvimento de landing pages atrativas Desenvolvimento de e-commerce Criação de portfólios e páginas pessoais Suporte técnico e manutenção de sites Integrações com APIs, formulários e embed (ex: Spotify) 
 🚀 Sempre explorando novas ferramentas e tendências
 
 * 🌍  I'm based in São Paiulo
-* ✉️  You can contact me at [Contato.leonardombs@gmail.com](mailto:Contato.leonardombs@gmail.com)
+* ✉️  You can contact me at [leonardomb.dev@gmail.com](mailto:leonardomb.dev@gmail.com)
 
 ### Skills
 
