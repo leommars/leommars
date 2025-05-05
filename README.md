@@ -5,7 +5,7 @@ Transformo ideias em sites modernos, responsivos e funcionais, com foco em desem
 --------------------------------------------------------------------------------------------------------
 
 🛠️ Tecnologias que domino: Frontend: HTML5, CSS3, JavaScript, Bootstrap 
- Plataformas: WordPress, Wix Controle de versão: Git & GitHub 
+ Plataformas: WordPress, Wix, Figma Controle de versão: Git & GitHub 
 🎯 Especialidades: Desenvolvimento de landing pages atrativas Desenvolvimento de e-commerce Criação de portfólios e páginas pessoais Suporte técnico e manutenção de sites Integrações com APIs, formulários e embed (ex: Spotify) 
 🚀 Sempre explorando novas ferramentas e tendências
 
