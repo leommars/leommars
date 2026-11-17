@@ -1,27 +1,123 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Olá, meu nome é Leonardo Marques — Desenvolvedor web e Freelancer. Transformo ideias em sites modernos, responsivos e funcionais, com foco em desempenho e visual criativo. 
-🛠️ Tecnologias que dominó: Frontend: HTML5, CSS3, JavaScript, Bootstrap. Plataformas: WordPress, Wix Controle de versão: Git & GitHub 🎯 Especialidades: Desenvolvimento de landing pages atrativas Desenvolvimento de e-commerce Criação de portfólios e páginas pessoais Suporte técnico e manutenção de sites Integrações com APIs, formulários e embed (ex: Spotify) 
-🚀 Sempre explorando novas ferramentas e tendências * 
-🌍 Estou baseado em São Paiulo * 
-✉️ Você pode entrar em contato comigo pelo [e-mail leonardomb.dev@gmail.com](mailto:leonardomb.dev@gmail.com).
+<div align="center">
 
-### Habilidades
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0C,100:E8102F&height=220&section=header&text=Leonardo%20Marques&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20·%20Front%20End%20·%20UI/UX&descAlignY=58&descSize=20" alt="Leonardo Marques" />
 
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E8102F&center=true&vCenter=true&width=680&lines=Interfaces+rápidas,+acessíveis+e+bem+desenhadas;Do+design+ao+código+em+produção;Disponível+para+projetos+freelancer" alt="Typing SVG" />
+</a>
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
-</p>
+<br/>
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-mdeveloper.netlify.app-0B0B0C?style=for-the-badge&logo=netlify&logoColor=white)](https://mdeveloper.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Marques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marques-bomtempo/)
+[![Gmail](https://img.shields.io/badge/Email-leonardomb.dev-E8102F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardomb.dev@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-0B0B0C?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1grqtB-yL2Dkz9XUpK0nAnNiuR_pOSuRh/view?usp=drivesdk)
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/leommars" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/leommars/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/leonardo-marques-bomtempo/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://mdeveloper.netlify.app" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## 👋 Sobre
 
-<b>My GitHub Stats</b>
+Atuo entre design e desenvolvimento: penso a interface e a implemento com código semântico, responsivo e atento à performance e à acessibilidade. Trabalho do entendimento do problema até a publicação.
 
-<a href="http://www.github.com/leommars"><img src="https://github-readme-stats.vercel.app/api?username=leommars&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="leommars's GitHub stats" /></a>
+## 🚀 Projetos
 
-<a href="http://www.github.com/leommars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leommars&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<details open>
+<summary><b>🐒 E-commerce Monkey</b></summary>
 
-<a href="http://www.github.com/leommars"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=leommars&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+Loja virtual de streetwear com filtro de produtos e carrinho animado.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔗 [Ver projeto](https://lojamonkey.netlify.app/)
+
+</details>
+
+<details open>
+<summary><b>🔗 Link Bio</b></summary>
+
+Página de links com foco em performance e acessibilidade.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![A11y](https://img.shields.io/badge/Acessibilidade-A11y-0B0B0C?style=flat-square)
+
+🔗 [Ver projeto](https://marxlinks.netlify.app/)
+
+</details>
+
+<details open>
+<summary><b>🧠 Nine <i>(em desenvolvimento)</i></b></summary>
+
+Assistente virtual para psicólogos, com integrações com Google Agenda e Gmail, autenticação segura e testes automatizados.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</details>
+
+## 🛠️ Tecnologias
+
+<details>
+<summary><b>Front-end</b></summary>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Back-end e dados</b></summary>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Design e ferramentas</b></summary>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</details>
+
+## 🔄 Processo
+
+> 1. **Entender:** objetivo do projeto, público e requisitos essenciais.
+> 2. **Desenhar:** fluxos, layout e componentes pensados para diferentes telas.
+> 3. **Construir:** HTML semântico, CSS limpo e JavaScript enxuto.
+> 4. **Entregar:** testes de acessibilidade, performance e publicação.
+
+## 🎓 Formação
+
+- **Analise e Desenvolvento de Sistemas** (Tecnólogo), Faculdade Descomplica , 2024
+- **Engenharia de Software** (curso livre), FIAP, 2026
+- **User Experience, Design and Applied Arts**, FIAP, 2026
+
+---
+
+<div align="center">
+
+### 📬 Vamos construir algo juntos?
+
+<a href="mailto:leonardomb.dev@gmail.com"><img src="https://img.shields.io/badge/Entre_em_contato-E8102F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8102F,100:0B0B0C&height=120&section=footer" width="100%" />
+
+</div>
