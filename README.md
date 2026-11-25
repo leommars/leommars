@@ -21,48 +21,6 @@
 
 Atuo entre design e desenvolvimento: penso a interface e a implemento com código semântico, responsivo e atento à performance e à acessibilidade. Trabalho do entendimento do problema até a publicação.
 
-## 🚀 Projetos
-
-<details open>
-<summary><b>🐒 E-commerce Monkey</b></summary>
-
-Loja virtual de streetwear com filtro de produtos e carrinho animado.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-🔗 [Ver projeto](https://lojamonkey.netlify.app/)
-
-</details>
-
-<details open>
-<summary><b>🔗 Link Bio</b></summary>
-
-Página de links com foco em performance e acessibilidade.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![A11y](https://img.shields.io/badge/Acessibilidade-A11y-0B0B0C?style=flat-square)
-
-🔗 [Ver projeto](https://marxlinks.netlify.app/)
-
-</details>
-
-<details open>
-<summary><b>🧠 Nine <i>(em desenvolvimento)</i></b></summary>
-
-Assistente virtual para psicólogos, com integrações com Google Agenda e Gmail, autenticação segura e testes automatizados.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</details>
 
 ## 🛠️ Tecnologias
 
